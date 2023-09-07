@@ -25,7 +25,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahilpervez)
 
 ### Technologies & Frameworks
-[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter&logoColor=blue)](https://github.com/Sahilpervez)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)](https://github.com/sarthakagarwal882)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Sahilpervez)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
