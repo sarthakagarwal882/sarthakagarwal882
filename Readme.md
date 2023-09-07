@@ -17,16 +17,15 @@
 
 ### Languages
 
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=purple)](https://github.com/Sahilpervez)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Sahilpervez)
-[![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
-[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Sahilpervez)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahilpervez)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=purple)](https://github.com/sarthakagarwal882)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/sarthakagarwal882)
+[![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/sarthakagarwal882)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/sarthakagarwal882)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sarthakagarwal882)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sarthakagarwal882)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)](https://github.com/sarthakagarwal882)
-
 [![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/sarthakagarwal882)
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/sarthakagarwal882)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/sarthakagarwal882)
@@ -42,12 +41,12 @@
 
 
 <p align="center">
-  <a href="https://github.com/Sahilpervez">
-    <img src="https://komarev.com/ghpvc/?username=Sahilpervez&color=blue&style=flat)" />
+  <a href="https://github.com/sarthakagarwal882">
+    <img src="https://komarev.com/ghpvc/?username=agarwalsarthak882&color=blue&style=flat)" />
   </a>
 </p>
 
 # 📊GitHub Stats :
-![Sahilpervez's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Sahilpervez&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Sahilpervez's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahilpervez&theme=calm&hide_border=false)<br/>
-![Sahilpervez's most used languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Sahilpervez&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Sarthak's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=sarthakagarwal882&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Sarthak's github stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakagarwal882&theme=calm&hide_border=false)<br/>
+![Sarthak's most used languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=sarthakagarwal882&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
