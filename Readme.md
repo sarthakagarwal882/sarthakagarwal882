@@ -31,12 +31,12 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
 [![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs)](https://app.netlify.com/teams/sahilpervez/overview)
 [![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=express)](https://github.com/sarthakagarwal882)
-[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/sahilpervez/overview)
+[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/sarthakagarwal882/overview)
 [![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render)](https://github.com/Sahilpervez)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Sahilpervez)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Sahilpervez)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sarthakagarwal882)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/sarthakagarwal882)
 
 
 <p align="center">
