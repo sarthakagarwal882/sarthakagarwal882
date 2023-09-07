@@ -26,13 +26,15 @@
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)](https://github.com/sarthakagarwal882)
+
 [![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/sarthakagarwal882)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
-[![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs)](https://app.netlify.com/teams/sahilpervez/overview)
+[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/sarthakagarwal882)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/sarthakagarwal882)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/sarthakagarwal882)
+[![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs)](https://github.com/sarthakagarwal882)
 [![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=express)](https://github.com/sarthakagarwal882)
-[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/sarthakagarwal882/overview)
-[![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render)](https://github.com/Sahilpervez)
+[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://github.com/sarthakagarwal882)
+[![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render)](https://github.com/sarthakagarwal882)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sarthakagarwal882)
