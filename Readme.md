@@ -4,23 +4,19 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Alam Sahilpervez.<br>
-        Currently learning NodeJS and MongoDB.<br>
-        Open to collaborating on interesting and innovative projects based on Flutter and Firebase.<br>
+        Currently learning Redux and REST API.<br>
+        Open to collaborating on interesting and innovative projects based on MERN stack and Redux.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/sahilpervez-alam-90a4b618b/">
+    <a href="https://www.linkedin.com/in/sarthak-agarwal-ab6308245/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.codechef.com/users/sahilpervez123">
+    <a href="https://www.codechef.com/users/sarthak_882">
         <img src="https://img.shields.io/badge/CodeChef-brown?style=flat-square&logo=CodeChef" alt="CodeChef">
-    </a>
-    <a href="https://codeforces.com/profile/Sahilpervez">
-        <img src="https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces" alt="CodeForces">
     </a>
 </p>
 
 ### Languages
 
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=blue)](https://https://github.com/Sahilpervez)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=purple)](https://github.com/Sahilpervez)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Sahilpervez)
 [![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
