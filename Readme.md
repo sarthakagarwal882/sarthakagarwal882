@@ -1,34 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sarthak Agarwal</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h1 align="center">Hello, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakagarwal882&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakagarwal882" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakagarwal882" alt="sarthakagarwal882" /></a> </p>
-
-- 🔭 I’m currently working on [FilmyRadar](https://github.com/sarthakagarwal882/FilmyRadar)
-
-- 🌱 I’m currently learning **REST API, Redux, DSA,**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sarthakagarwal882](https://github.com/sarthakagarwal882)
-
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, MongoDb, CSS, Redux**
-
-- 📫 How to reach me **agarwalsarthak882@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthak-agarwal-ab6308245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-agarwal-ab6308245" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sarthakagarwal882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sarthakagarwal882" height="30" width="40" /></a>
-<a href="https://instagram.com/its_sarthak_ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_sarthak_ag" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sarthak_882" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak_882" height="30" width="40" /></a>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Alam Sahilpervez.<br>
+        Currently learning NodeJS and MongoDB.<br>
+        Open to collaborating on interesting and innovative projects based on Flutter and Firebase.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/sahilpervez-alam-90a4b618b/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.codechef.com/users/sahilpervez123">
+        <img src="https://img.shields.io/badge/CodeChef-brown?style=flat-square&logo=CodeChef" alt="CodeChef">
+    </a>
+    <a href="https://codeforces.com/profile/Sahilpervez">
+        <img src="https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces" alt="CodeForces">
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakagarwal882&show_icons=true&locale=en&layout=compact" alt="sarthakagarwal882" /></p>
+[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=blue)](https://https://github.com/Sahilpervez)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=purple)](https://github.com/Sahilpervez)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Sahilpervez)
+[![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Sahilpervez)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahilpervez)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakagarwal882&show_icons=true&locale=en" alt="sarthakagarwal882" /></p>
+### Technologies & Frameworks
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter&logoColor=blue)](https://github.com/Sahilpervez)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/Sahilpervez)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
+[![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs)](https://app.netlify.com/teams/sahilpervez/overview)
+[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/Sahilpervez)
+[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/sahilpervez/overview)
+[![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render)](https://github.com/Sahilpervez)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakagarwal882&" alt="sarthakagarwal882" /></p>
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Sahilpervez)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Sahilpervez)
 
+
+<p align="center">
+  <a href="https://github.com/Sahilpervez">
+    <img src="https://komarev.com/ghpvc/?username=Sahilpervez&color=blue&style=flat)" />
+  </a>
+</p>
+
+# 📊GitHub Stats :
+![Sahilpervez's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Sahilpervez&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Sahilpervez's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahilpervez&theme=calm&hide_border=false)<br/>
+![Sahilpervez's most used languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Sahilpervez&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
