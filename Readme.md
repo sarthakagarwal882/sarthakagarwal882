@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Alam Sahilpervez.<br>
+        I'm Sarthak Agarwal.<br>
         Currently learning Redux and REST API.<br>
         Open to collaborating on interesting and innovative projects based on MERN stack and Redux.<br>
     </i><br>
