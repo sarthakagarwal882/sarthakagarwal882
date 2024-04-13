@@ -5,7 +5,7 @@
     <i>
         I'm Sarthak Agarwal.<br>
         Currently learning PostgreSQL and DSA.<br>
-        Open to collaborating on interesting and innovative projects based on MERN stack and Redux.<br>
+        Open to collaborating on interesting and innovative projects based on Web Development.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/sarthak-agarwal-ab6308245/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
