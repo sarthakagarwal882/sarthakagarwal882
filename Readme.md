@@ -10,6 +10,9 @@
     <a href="https://www.linkedin.com/in/sarthak-agarwal-ab6308245/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+      <a href="https://twitter.com/Sarthak_882">
+        <img src="https://img.shields.io/badge/x-black?style=flat-square&logo=x" alt="X">
+    </a>
     <a href="https://www.codechef.com/users/sarthak_882">
         <img src="https://img.shields.io/badge/CodeChef-brown?style=flat-square&logo=CodeChef" alt="CodeChef">
     </a>
