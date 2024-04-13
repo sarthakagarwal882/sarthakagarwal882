@@ -23,17 +23,23 @@
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/sarthakagarwal882)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sarthakagarwal882)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sarthakagarwal882)
+[![SQL](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/sarthakagarwal882)
+
 
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)](https://github.com/sarthakagarwal882)
-[![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/sarthakagarwal882)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/sarthakagarwal882)
+[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)](https://github.com/sarthakagarwal882)
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/sarthakagarwal882)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/sarthakagarwal882)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/sarthakagarwal882)
 [![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs)](https://github.com/sarthakagarwal882)
 [![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=express)](https://github.com/sarthakagarwal882)
+[![MongoDB](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/sarthakagarwal882)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/sarthakagarwal882)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/sarthakagarwal882)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/sarthakagarwal882)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/sarthakagarwal882)
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://github.com/sarthakagarwal882)
 [![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render)](https://github.com/sarthakagarwal882)
+[![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/sarthakagarwal882)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sarthakagarwal882)
