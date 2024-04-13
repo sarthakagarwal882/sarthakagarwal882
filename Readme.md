@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Sarthak Agarwal.<br>
-        Currently learning Redux and REST API.<br>
+        Currently learning PostgreSQL and DSA.<br>
         Open to collaborating on interesting and innovative projects based on MERN stack and Redux.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/sarthak-agarwal-ab6308245/">
